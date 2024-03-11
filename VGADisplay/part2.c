@@ -1,7 +1,6 @@
 int pixel_buffer_start; // global variable
 
 
-
 // code not shown for clear_screen() and draw_line() subroutines
 
 
